@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ndamasc&layout=compact&theme=radical)
 
 ![Repositório Destacado](https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=ClearFlow-Sentinel-app&theme=radical)
-
+![Repositório Destacado](https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=CP-Lab-&theme=radical)
+![Repositório Destacado](https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=Esp-Sender-Lora&theme=radical)
