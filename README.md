@@ -14,10 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Linguagens Mais Usadas 🌟
+## 🌟 Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ndamasc&layout=compact&theme=radical)
-![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=ndamasc&theme=radical)
-![Repositório Destacado](https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=ClearFlow-Sentinel-app&theme=radical)
-![Repositório Destacado](https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=CP-Lab-&theme=radical)
-![Repositório Destacado](https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=Esp-Sender-Lora&theme=radical)
 
+## 📊 Contribuições
+![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=ndamasc&theme=radical)
+
+## 🚀 Repositórios Destacados
+
+<div align="center">
+  <a href="https://github.com/ndamasc/ClearFlow-Sentinel-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=ClearFlow-Sentinel-app&theme=radical" />
+  </a>
+  <a href="https://github.com/ndamasc/CP-Lab-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=CP-Lab-&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ndamasc/Esp-Sender-Lora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=Esp-Sender-Lora&theme=radical" />
+  </a>
+  <a href="https://github.com/ndamasc/OUTRO-REPOSITORIO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=OUTRO-REPOSITORIO&theme=radical" />
+  </a>
+</div>
