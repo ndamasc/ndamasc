@@ -36,6 +36,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=Esp-Sender-Lora&theme=radical" />
   </a>
   <a href="https://github.com/ndamasc/OUTRO-REPOSITORIO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=OUTRO-REPOSITORIO&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndamasc&repo=Webserver-in-JS&theme=radical" />
   </a>
 </div>
