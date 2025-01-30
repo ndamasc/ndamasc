@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌟 Linguagens Mais Usadas
+## 🌟 Most used languages
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ndamasc&layout=compact&theme=radical)
 
-## 📊 Contribuições
+## 📊 Contributions
 ![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=ndamasc&theme=radical)
 
-## 🚀 Repositórios Destacados
+## 🚀 Highlighted Repositories
 
 <div align="center">
   <a href="https://github.com/ndamasc/ClearFlow-Sentinel-app">
